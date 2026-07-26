@@ -1,6 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/GayathriPrasanna/GayathriPrasanna/main/assets/banner.gif" width="100%" alt="Developer Banner"/>
+  <img src="./Create_a_second_ultra_reali.gif" width="100%" alt="Developer Banner"/>
 </p>
 
 <h2 align="center">
