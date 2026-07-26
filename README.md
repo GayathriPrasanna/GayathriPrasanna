@@ -465,15 +465,13 @@ Enthusiast
 
 ---
 
-# 🐍 Contribution Snake
+## 👾 Pac-Man Contribution Graph
 
-> **Enable GitHub Actions first.**
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/GayathriPrasanna/GayathriPrasanna/output/github-contribution-grid-snake.svg"/>
-
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GayathriPrasanna/GayathriPrasanna/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GayathriPrasanna/GayathriPrasanna/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/GayathriPrasanna/GayathriPrasanna/output/pacman-contribution-graph-dark.svg">
+</picture>
 
 ---
 
