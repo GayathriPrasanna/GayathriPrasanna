@@ -1,115 +1,503 @@
- <h1 align="center">Hi 👋, I'm Gayathri Prasanna</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Python | AI & ML</h3>
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vliines=false&width=435&lines=Full+Stack+Developer;MERN+Stack+%7C+Python+%7C+Django;AI+%26+ML+Enthusiast;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Gayathri%20Prasanna&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+</p>
+
+<h1 align="center">
+Hi 👋 I'm Gayathri Prasanna
+</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer • Java Developer • MERN Stack • AI & ML
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=750&color=7C3AED&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;Python+%7C+Django;Artificial+Intelligence+Enthusiast;Always+Learning+New+Technologies+🚀"/>
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=GayathriPrasanna&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/GayathriPrasanna?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/last-commit/GayathriPrasanna/GayathriPrasanna?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
+
 </p>
 
 ---
 
-### 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 B.Tech in **AI & ML** @ SVCET Etcherla (CGPA: 8.05)
-- 💼 3 Internships | 5 Full-Stack Projects
-- 🔭 Currently working on **MERN Stack Projects**
-- 🌱 Learning **GenAI, RAG, AI Engineering**
-- 👯 Open to collaborate on **Full Stack & AI Projects**
-- 📫 Reach me at **gayathri162004@gmail.com**
-- ⚡ Fun fact: I build things that actually work 😄
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
----
+🎓 B.Tech Graduate in **Artificial Intelligence & Machine Learning**
 
-### 🛠️ Tech Stack
+💻 Passionate **Full Stack Developer** specializing in **Java, MERN Stack, Python & Django**
 
-**Frontend:**
+🚀 Built multiple real-world web applications and Machine Learning projects
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+🌱 Currently exploring **Generative AI, RAG, AI Engineering, AWS & System Design**
 
-**Backend:**
+🤝 Always interested in collaborating on impactful software projects
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+📫 **Email:** `gayathri162004@gmail.com`
 
-**Database:**
+⚡ **Fun Fact:** I enjoy solving DSA problems and turning ideas into real applications.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools:**
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br clear="right"/>
 
 ---
 
-### 📊 GitHub Stats
+# ⚡ Quick Highlights
+
+<table>
+<tr>
+<td align="center">
+
+💼
+
+### 3+
+
+Internships
+
+</td>
+
+<td align="center">
+
+🚀
+
+### 5+
+
+Projects
+
+</td>
+
+<td align="center">
+
+☕
+
+### Java
+
+Developer
+
+</td>
+
+<td align="center">
+
+🤖
+
+### AI
+
+Enthusiast
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GayathriPrasanna&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GayathriPrasanna&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayathriPrasanna&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<a href="https://www.linkedin.com/in/gayathri-prasanna-chilakalapalli-15658430a">
 
----
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-### 🚀 Featured Projects
-
-| Project | Tech | Link |
-|---------|------|------|
-| 🧑‍💼 Job Listing Portal | MERN Stack | [View](https://github.com/GayathriPrasanna) |
-| 💻 Code Collaboration Platform | Node.js + WebSockets | [View](https://github.com/GayathriPrasanna) |
-| 🎓 Certificate Verification System | MERN + Excel | [View](https://github.com/GayathriPrasanna) |
-| 💃 Dance Form Classifier | Python + ML | [View](https://github.com/GayathriPrasanna) |
-| 🔒 Data Exposure Detection | Python + ML | [View](https://github.com/GayathriPrasanna) |
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/gayathriprasanna-chilakalapalli" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:gayathri162004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
-<a href="https://leetcode.com/u/GayathriPrasanna_07" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<a href="https://leetcode.com/u/GayathriPrasanna_07">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </a>
+
+<a href="https://github.com/GayathriPrasanna">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
 </p>
 
 ---
 
+# 💡 Motto
+
+> **"Keep learning, keep building, and let your projects speak louder than your resume."**
+
+---
+<!-- ========================= TECH STACK ========================= -->
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark" />
+
+---
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vite&theme=dark" />
+
+---
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" />
+
+---
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
+
+---
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel,netlify,linux&theme=dark" />
+
+---
+
+### 📚 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=aws,firebase&theme=dark" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🔒 DataExposer
+
+### Automated Detection & Mitigation of Data-System Misalignments
+
+**Tech Stack**
+
+`Python` `Django` `Machine Learning`
+
+**Highlights**
+
+- ✅ Detects Data Misalignment
+- ✅ Machine Learning Models
+- ✅ Django Web Application
+
+<a href="https://github.com/GayathriPrasanna">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 💼 AI Job Tracker
+
+### Smart Job Application Management
+
+**Tech Stack**
+
+`MERN` `MongoDB`
+
+**Highlights**
+
+- ✅ Track Applications
+- ✅ Dashboard
+- ✅ Authentication
+
+<a href="https://github.com/GayathriPrasanna">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Rental Portal
+
+### Complete Rental Management Platform
+
+**Tech Stack**
+
+`React` `Node.js`
+
+**Highlights**
+
+- ✅ Property Listing
+- ✅ Authentication
+- ✅ Responsive Design
+
+<a href="https://github.com/GayathriPrasanna">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🎓 Certificate Verification
+
+### Secure Digital Verification
+
+**Tech Stack**
+
+`MERN` `Express`
+
+**Highlights**
+
+- ✅ Certificate Validation
+- ✅ Secure Verification
+- ✅ Admin Dashboard
+
+<a href="https://github.com/GayathriPrasanna">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 Dance Form Classifier
+
+### Machine Learning Classification
+
+**Tech Stack**
+
+`Python`
+
+`Machine Learning`
+
+**Highlights**
+
+- ✅ Classification Model
+- ✅ Prediction System
+- ✅ Data Processing
+
+<a href="https://github.com/GayathriPrasanna">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🌟 More Projects
+
+➡️ Portfolio Website
+
+➡️ DSA Solutions
+
+➡️ Java Projects
+
+➡️ React Projects
+
+<a href="https://github.com/GayathriPrasanna?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-4F46E5?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏅 Certifications
+
+🏆 Java Developer Internship
+
+🏆 Machine Learning Workshop
+
+🏆 MERN Stack Internship
+
+🏆 Hackathon Participation
+
+---
+
+# 🌟 Achievements
+
+🥈 Hackathon Runner-Up
+
+🚀 Built 5+ Real-World Projects
+
+💼 Completed 3 Internships
+
+💻 Consistently Practicing DSA
+
+🌱 Exploring AI Engineering & Generative AI
+
+---
+<!-- ========================= GITHUB STATS ========================= -->
+
+# 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GayathriPrasanna&label=Profile%20views&color=6366f1&style=flat" alt="profile views" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GayathriPrasanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GayathriPrasanna&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-⭐ **If you like my projects, give them a star!**
+<p align="center">
 
-<!--
-**GayathriPrasanna/GayathriPrasanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayathriPrasanna&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GayathriPrasanna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GayathriPrasanna&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📋 GitHub Profile Summary
+
+<p align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GayathriPrasanna&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GayathriPrasanna&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GayathriPrasanna&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GayathriPrasanna&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💭 Random Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- 🤖 Generative AI
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ☁️ AWS Cloud
+- 🐳 Docker
+- 🏗️ System Design
+- ⚡ Advanced Java Backend Development
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Solve **500+ LeetCode** problems
+- ✅ Master **Data Structures & Algorithms**
+- ✅ Learn **AWS & Docker**
+- ✅ Contribute to **Open Source**
+- ✅ Build **SaaS Products**
+- ✅ Crack a **Product-Based Company**
+
+---
+
+# 💼 Open To Work
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Software%20Engineer-Open-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java%20Developer-Available-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MERN%20Developer-Ready-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python%20Developer-Open-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Enable GitHub Actions first.**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/GayathriPrasanna/GayathriPrasanna/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=GayathriPrasanna&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ❤️ Thanks for Visiting
+
+<p align="center">
+
+⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=120&section=footer"/>
+
+</p>
