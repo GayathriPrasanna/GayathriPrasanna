@@ -1,6 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 <p align="center">
-  <img src="./Create_a_second_ultra_reali.gif" width="450" alt="Developer Banner"/>
+  <img src="./Create_a_second_ultra_reali.gif" width="350" alt="Developer Banner"/>
 </p>
 
 <h2 align="center">
