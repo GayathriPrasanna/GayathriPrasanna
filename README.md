@@ -1,11 +1,11 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Gayathri%20Prasanna&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,30:1D4ED8,70:2563EB,100:38BDF8&text=Gayathri%20Prasanna&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 </p>
 
 <h1 align="center">
-Hi 👋 I'm Gayathri Prasanna
+Hi 👋 I'm Gayathri Prasanna Chilakalapalli
 </h1>
 
 <h3 align="center">
@@ -497,7 +497,5 @@ Enthusiast
 </p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,30:1D4ED8,70:2563EB,100:38BDF8&text=Gayathri%20Prasanna&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 </p>
