@@ -495,6 +495,3 @@ Enthusiast
 
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,30:1D4ED8,70:2563EB,100:38BDF8"/>
-</p>
