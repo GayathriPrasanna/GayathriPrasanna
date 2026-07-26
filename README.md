@@ -1,32 +1,52 @@
 <!-- ========================= HEADER ========================= -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,30:1D4ED8,70:2563EB,100:38BDF8&text=Gayathri%20Prasanna&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img src="https://raw.githubusercontent.com/GayathriPrasanna/GayathriPrasanna/main/assets/banner.gif" width="100%" alt="Developer Banner"/>
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Gayathri Prasanna Chilakalapalli
-</h1>
+<h2 align="center">
+👋 Hey, I'm <strong>Gayathri Prasanna Chilakalapalli</strong>
+</h2>
 
 <h3 align="center">
-🚀 Full Stack Developer • Java Developer • MERN Stack • AI & ML
+💙 Full Stack Developer • Java • MERN • Python • AI & ML
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=750&color=7C3AED&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;Python+%7C+Django;Artificial+Intelligence+Enthusiast;Always+Learning+New+Technologies+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&color=38BDF8&lines=Building+Scalable+Web+Applications;Java+%7C+MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀;Open+to+Software+Engineering+Opportunities" />
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GayathriPrasanna&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
+<a href="https://github.com/GayathriPrasanna">
+<img src="https://komarev.com/ghpvc/?username=GayathriPrasanna&label=Profile+Views&color=2563EB&style=for-the-badge"/>
+</a>
 
-<img src="https://img.shields.io/github/followers/GayathriPrasanna?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/GayathriPrasanna?logo=github&style=for-the-badge&color=2563EB"/>
 
-<img src="https://img.shields.io/github/last-commit/GayathriPrasanna/GayathriPrasanna?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-Software%20Engineering-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-2563EB?style=for-the-badge"/>
 
 </p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/gayathri-prasanna-chilakalapalli-15658430a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gayathri162004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/GayathriPrasanna_07">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
 
 ---
 
