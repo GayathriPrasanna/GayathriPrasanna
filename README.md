@@ -382,7 +382,7 @@ Enthusiast
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GayathriPrasanna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=GayathriPrasanna&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
 
@@ -392,8 +392,7 @@ Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GayathriPrasanna&theme=tokyo-night&hide_border=true"/>
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GayathriPrasanna&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 </p>
 
 ---
